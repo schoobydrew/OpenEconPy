@@ -1,5 +1,6 @@
 # Engineering economics formulas by Andrew Schoonmaker
 # import statements
+#ii like git
 from decimal import Decimal as D
 # single payment series
 class SinglePayment:
